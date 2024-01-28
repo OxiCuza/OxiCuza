@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Need opportunity for full time job in backend development<br>👯 I’m part of Imagine Creative<br>🌱 I’m currently learning more about Backend Development<br>📫 How to reach me: Email - oxicusa@gmail.com<br>⚡ Interest in tech stack of backend development
+🔭 Need opportunity for full time job in backend development<br>🌱 I’m currently learning more about Backend Development<br>📫 How to reach me: Email - oxicusa@gmail.com<br>⚡ Interest in tech stack of backend development
 
 
 ## 🌐 Socials:
@@ -18,9 +18,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=OxiCuza&icon=0&color=1)](https://visitcount.itsvg.in)
