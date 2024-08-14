@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Need opportunity for full time job in backend development<br>🌱 I’m currently learning more about Backend Development<br>📫 How to reach me: Email - oxicusa@gmail.com<br>⚡ Interest in tech stack of backend development
+🌱 I’m currently learning more about Backend Development<br>📫 How to reach me: Email - oxicusa@gmail.com<br>⚡ Interest in tech stack of backend development
 
 
 ## 🌐 Socials:
